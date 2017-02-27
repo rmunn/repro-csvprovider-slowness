@@ -1,0 +1,25 @@
+type project
+title
+    ReproCsv
+owners
+    Robin Munn
+authors 
+    Robin Munn
+projectUrl
+    https://github.com/[github-user]/ReproCsv
+iconUrl
+    https://raw.githubusercontent.com/[github-user]/ReproCsv/master/docs/files/img/logo.png
+licenseUrl
+    https://github.com/[github-user]/ReproCsv/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    fsharp
+summary
+    Summary not set
+description
+    Description not set
+
+
