@@ -1,3 +1,12 @@
+The code in the Repro.fs file is licensed CC-BY-SA 3.0
+(https://creativecommons.org/licenses/by-sa/3.0/) and was written
+by Stack Overflow user FuleSnabel, at http://stackoverflow.com/a/42472769/.
+
+All the other files in this repository come from ProjectScaffold
+(https://github.com/fsprojects/ProjectScaffold), and the following
+public-domain license applies to all of those files:
+
+
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or

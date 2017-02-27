@@ -1,6 +1,8 @@
 module ReproCsv.Repro
 
 // Bug repro from http://stackoverflow.com/a/42472769
+// The code in this file was written by StackOverflow user FuleSnabel
+// and licensed CC-BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 
 open System
 open System.Diagnostics
